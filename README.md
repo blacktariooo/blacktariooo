@@ -2,6 +2,8 @@
 
 
 <p align="center">
+   <img src="https://api.lanyard.rest/v1/users/882355390224945234">
+<p align="center">
    <img src="https://lanyard-profile-readme.vercel.app/api/882355390224945234">
    
    
