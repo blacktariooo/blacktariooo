@@ -2,7 +2,7 @@
 
 
 <p align="center">
-   <img src="https://lanyard--profile-readme.vercel.app/api/938138466775097384">
+   <img src="https://api.lanyard.rest/v1/users/938138466775097384">
    
    
 #
