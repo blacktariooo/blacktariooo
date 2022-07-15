@@ -7,7 +7,7 @@
    
 #
 ```diff
-✔ -> learning python
+✔ -> 2nd account batch dedicated
 ✔ -> contact me on discord at blacktario#0001
 ```
 
