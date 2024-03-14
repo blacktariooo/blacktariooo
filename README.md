@@ -7,7 +7,7 @@
    
 #
 ```diff
-✔ -> 2nd account batch dedicated
+✔ -> 2nd account
 ✔ -> contact me on discord at blacktario#0001
 ```
 
